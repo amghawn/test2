@@ -172,8 +172,6 @@ body{
 
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003050', endColorstr='#d30044',GradientType=1 ); /* ie6-9 */
 
-	
-	
 }
 
 .logo{
@@ -1011,8 +1009,6 @@ body{
 	font-family: 'Oswald', sans-serif;
 
 	font-weight:300;
-	
-	color: #f90606;
 
 }
 
@@ -1020,7 +1016,7 @@ body{
 
 	font-size:34px;
 
-	color: #0a11fb;
+	color: #bd0008;
 
 	font-family: 'Oswald', sans-serif;
 
@@ -1126,7 +1122,7 @@ body{
 
 	padding:16px 6px;
 
-	border:4px solid #1a464c;
+	border:1px solid #7e8f9e;
 
 }
 
@@ -1226,9 +1222,9 @@ body{
 
 	height:auto;
 
-	background:#ffffff;
+	background:#f6f6f6;
 
-	margin:0 0 7px;
+	margin:0 0 15px;
 
 }
 
@@ -1250,7 +1246,7 @@ body{
 
 	float:left;
 
-	background:url(https://i.ebayimg.com/00/s/MjcwWDEyMDA=/z/pdUAAOSw5GZbSnlW/$_45.PNG) no-repeat center center;
+	background:url(https://i.ebayimg.com/00/s/MzIxWDEzNjY=/z/Fl4AAOSw7BRbNMm7/$_45.PNG) no-repeat center center;
 
 	-webkit-background-size:cover;
 
@@ -1502,6 +1498,7 @@ body{
 
 	color:#b8b8b8;
 
+	background:url(https://i.ebayimg.com/00/s/MzIxWDEzNjY=/z/Fl4AAOSw7BRbNMm7/$_45.PNG) no-repeat left 7px;
 
 	margin:0 0 6px;
 
