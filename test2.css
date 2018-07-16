@@ -1444,21 +1444,21 @@ body{
 
 .label-block label{
 
-	font-size:18px;
-
-	color:#252525;
-
-	line-height:24px;
-
-	font-weight:400;
-
-	cursor:pointer;
-
-	font-family: 'Oswald', sans-serif;
-
-	display:inline-block;
-
-	margin:0 65px;
+	font-size: 18px;
+    color: #252525;
+    line-height: 24px;
+    font-weight: 400;
+    cursor: pointer;
+    font-family: 'Oswald', sans-serif;
+    display: inline-block;
+    margin: 0 0px;
+    padding: 10px;
+    width: 21%;
+    background: #0787b7;
+    border: 1px solid #FFF;
+    order: 1;
+    color: #FFF;
+    
 
 }
 
