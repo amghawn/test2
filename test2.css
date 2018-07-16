@@ -1432,13 +1432,13 @@ body{
 
 .label-block{
 
-	text-align: center;
-    margin: 0 0 30px;
-    display: block;
-    position: relative;
-    padding: 10px;
-    background: #00aeef;
-    border: 1px solid #FFF;
+	text-align:center;
+
+	margin:0 0 30px;
+
+	display:block;
+
+	position:relative;
 
 }
 
