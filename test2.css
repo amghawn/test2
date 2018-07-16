@@ -1392,7 +1392,12 @@ body{
 
 .label-block label:hover{
 
-	color:#0d2b48;
+	    padding: 10px;
+    width: 14.285%;
+    background: #00aeef;
+    border: 1px solid #FFF;
+    order: 1;
+	
 	
 
 }
